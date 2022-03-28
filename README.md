@@ -1,2 +1,2 @@
 # najot-talim
-najot ta;im java bootcamp
+najot talim java bootcamp
